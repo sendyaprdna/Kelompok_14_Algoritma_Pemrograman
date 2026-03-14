@@ -1,5 +1,6 @@
 # Kelompok_14_Algoritma_Pemrograman
-1. Pengertian Program Bangun Ruang
+
+# 1. Pengertian Program Bangun Ruang
 
 Program Bangun Ruang dalam Java adalah program yang digunakan untuk menghitung volume dan luas permukaan dari bangun ruang tiga dimensi menggunakan bahasa pemrograman Java.
 
@@ -31,7 +32,7 @@ Percabangan Switch Case untuk memilih bangun ruang
 
 Rumus matematika untuk menghitung volume dan luas permukaan
 
-2. Rumus Bangun Ruang yang Digunakan
+# 2. Rumus Bangun Ruang yang Digunakan
 1. Kubus
 
 Volume
@@ -86,7 +87,7 @@ r = jari-jari
 
 t = tinggi
 
-3. Source Code Program Java
+# 3. Source Code Program Java
 import java.util.Scanner;
 
 public class BangunRuang {
@@ -168,8 +169,7 @@ public class BangunRuang {
 
         input.close();
     }
-}
-4. Penjelasan Struktur Program
+# 4. Penjelasan Struktur Program
 1. Import Library
 import java.util.Scanner;
 
